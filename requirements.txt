@@ -1,1 +1,2 @@
+pyads==3.5.2
 Requests==2.34.2
